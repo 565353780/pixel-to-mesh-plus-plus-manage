@@ -9,7 +9,7 @@ https://github.com/walsvid/Pixel2MeshPlusPlus/tree/master/data
 ## Install
 
 ```bash
-conda create -n pixel python=3.8
+conda create -n pixel python=3.6
 conda activate pixel
 ./setup.sh
 ```
